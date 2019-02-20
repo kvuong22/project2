@@ -4,7 +4,7 @@
 movies_tools.py contains the class Movie, which contains the functions needed to generate the list of the 10 movies and their respective IMDB ratings extracted from the movies_clean.csv file. It also contains the code that counts the total number of movies available in movies_clean.csv.
 
 ## **Relationship between movies_tools.py and SI507_project2.py**
-SI507_project2.py imports all of the code from movies_tools.py and utilizes the Flask module to use the code in a Flask application, viewable via web browser and can be tested through a web browser.
+SI507_project2.py imports all of the code from movies_tools.py and utilizes the Flask module to use the code in a Flask application, viewable via web browser. See below on how to run the Flask Application and how to view on web browser.
 
 
 
